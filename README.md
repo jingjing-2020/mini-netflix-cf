@@ -6,6 +6,12 @@ An educational movie recommender built with **NumPy matrix factorization and gra
 
 > **Important:** This is an educational prototype, not Netflix's code or an official Netflix product. Demo-user ratings are artificially generated, not real viewers. Results from a 20×10 selection are too small/dense to establish production recommendation quality. No recommendation accuracy is guaranteed.
 
+## 🌐 Live Demo / 在线体验
+
+**Try the public Streamlit app / 打开在线电影推荐系统:** https://mini-netflix-cf.streamlit.app/
+
+The app is a teaching prototype. Select demo ratings or upload your own MovieLens CSV files; do not treat predictions as validated commercial recommendations.
+
 ## 中文快速开始
 
 ### 在自己电脑运行
